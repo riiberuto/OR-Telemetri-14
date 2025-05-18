@@ -1,0 +1,3 @@
+Jurusan = Teknik Industri
+Kelas = C
+Afiliasi = Universitas Andalas
